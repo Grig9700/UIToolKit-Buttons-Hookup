@@ -5,5 +5,5 @@ With this new handy dandy script, you can hook up your buttons yourself without 
 All you need to do is plop the script in the scene, add an element to the list, write in the button name and then link it to the function you want it to trigger! Just like in the old Canvas button system.
 
 Remember to talk to your doctor- I mean coder- if Button-Hookup is an appropriate prototyping solution for you~
-Button-Hookup is not meant for final releases.
+Button-Hookup is not intended for final releases.
 Side effects of using Button-Hookup may include strange romantic feelings of attraction to your buttons and eldritch whispering asking you to keep pushing the buttons.
