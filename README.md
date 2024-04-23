@@ -1,9 +1,9 @@
-Are you wanting to use the new UIToolKit for your project? Nice, then keep reading, if not, well... you decide what you want to do with your time.
+Excited about incorporating the new UIToolKit into your project? Great! Keep reading to learn more. If not, well, the choice is yours on how to spend your time.
 
-Are you in the middle of prototyping your UI, constantly changing, adding, removing buttons and growing increasingly tired of modifying the code/bugging your coder to implement the new button each time a change happens? Well, worry not! 
-With this new handy dandy script, you can hook up your buttons yourself without a single line of code! 
-All you need to do is plop the script in the scene, add an element to the list, write in the button name and then link it to the function you want it to trigger! Just like in the old Canvas button system.
+Are you knee-deep in UI prototyping, constantly tweaking, adding, and removing buttons, while growing increasingly fatigued from the repetitive code modifications or pestering your coder for updates? Fear not!
 
-Remember to talk to your doctor- I mean coder- if Button-Hookup is an appropriate prototyping solution for you~
-Button-Hookup is not intended for final releases.
-Side effects of using Button-Hookup may include strange romantic feelings of attraction to your buttons and eldritch whispering asking you to keep pushing the buttons.
+Introducing our new, user-friendly script that empowers you to effortlessly hook up your buttons without touching a single line of code! Simply drop the script into your scene, add an element to the list, input the button name, and link it to the desired function. It's as intuitive as the old Canvas button system.
+
+Remember to consult with your 'doctor'—ahem, coder—to determine if Button-Hookup is the right prototyping solution for your needs. Please note that Button-Hookup is intended for prototyping purposes only and not for final releases.
+
+Using Button-Hookup may result in unexpected side effects, including peculiar romantic sentiments towards your buttons and eerie whispers urging you to keep pushing them.
